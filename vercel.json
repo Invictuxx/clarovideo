@@ -1,15 +1,7 @@
-﻿{
-  "version": 2,
+{
   "functions": {
     "api/video.js": {
-      "runtime": "edge@0.2.1",
-      "maxDuration": 10
+      "runtime": "edge@0.2.1"
     }
-  },
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "/api/video"
-    }
-  ]
+  }
 }
