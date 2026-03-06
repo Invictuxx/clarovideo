@@ -1,0 +1,12 @@
+﻿{
+  "name": "clarovideo-proxy",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel deploy --prod"
+  },
+  "devDependencies": {
+    "vercel": "^34.0.0"
+  }
+}
