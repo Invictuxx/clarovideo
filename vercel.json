@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/video.js": {
-      "runtime": "edge@0.2.1"
+      "runtime": "nodejs20.x"
     }
   }
 }
