@@ -6,7 +6,4 @@
     "dev": "vercel dev",
     "deploy": "vercel deploy --prod"
   },
-  "devDependencies": {
-    "vercel": "^34.0.0"
-  }
 }
