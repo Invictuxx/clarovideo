@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/video.js": {
-      "runtime": "nodejs20.x"
-    }
-  }
-}
